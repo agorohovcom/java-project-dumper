@@ -1,0 +1,24 @@
+# Default ignore patterns for project-dumper
+.git/
+target/
+build/
+.gradle/
+.idea/
+*.iml
+out/
+gradle/
+gradlew
+gradlew.bat
+mvnw
+mvnw.cmd
+*.db
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
+*.tmp
+node_modules/
+dist/
