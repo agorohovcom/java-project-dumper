@@ -28,7 +28,7 @@ tasks.shadowJar {
     archiveVersion.set(project.version.toString())
 
     manifest {
-        attributes["Main-Class"] = "com.agorohov.java_project_dumper.ProjectDumper"
+        attributes["Main-Class"] = "com.agorohov.java_project_dumper.Main"
     }
 }
 
