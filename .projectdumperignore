@@ -1,0 +1,6 @@
+# User ignore example:
+# !*.log                  # discard default ignore or rule from .gitignore
+# logs/production.log     # ignore file
+# temp-data/              # ignore directory
+
+ignoredFolder/
