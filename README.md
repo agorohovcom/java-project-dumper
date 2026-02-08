@@ -41,6 +41,7 @@ java -jar java-project-dumper.jar [options]
 - `--max-file-size=<size>` - Maximum file size to read, e.g., 1Mb, 4000kb, default: 1Mb
 - `--max-file-lines=<n>` - Maximum number of lines to read per file (default: 2000)
 - `--no-gitignore` - Do not use .gitignore rules
+- `--debug` - Print DEBUG logs
 - `--show-default-ignore` - Show the list of default ignored files and directories
 - `--help` - Show this help message
 
